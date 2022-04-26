@@ -1,0 +1,10 @@
+body {
+    background-color: bisque;
+    border: solid black 3px;
+}
+article {
+    border: solid red 3px;
+}
+img {
+    border: solid pink 3px;
+}
